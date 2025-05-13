@@ -1,7 +1,4 @@
 
-* **Read and Modify Files**: Open a file, read its content, modify it, and save the result.
-* **Error Handling**: Handle errors if files don’t exist or can’t be opened.
-
 ## Code Overview
 
 ### `modify_and_save_file(input_filename, output_filename)`
